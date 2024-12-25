@@ -1,0 +1,11 @@
+body{
+  background-color: rgb(174, 222, 239);
+}
+
+.box{
+  margin-left: 300px;
+  margin-top: 135px;
+}
+#ubdateform{
+  display: none;
+}
